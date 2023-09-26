@@ -1,16 +1,16 @@
-import React, { useEffect } from 'react';
+// import React, { useEffect } from 'react';
 
-const About = () => {
+// const About = () => {
 
-  useEffect(() => {
+//   useEffect(() => {
 
-  }, []);
+//   }, []);
 
-  return (
-    <div>
-        <p>This is the about page</p>
-    </div>
-  );
-};
+//   return (
+//     <div>
+//         <p>This is the about page</p>
+//     </div>
+//   );
+// };
 
-export default About;
+// export default About;
