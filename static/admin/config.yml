@@ -1,0 +1,12 @@
+backend:
+  name: github
+  repo: your-username/your-repo
+
+collections:
+  - name: 'posts'
+    label: 'Posts'
+    folder: '_posts'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
